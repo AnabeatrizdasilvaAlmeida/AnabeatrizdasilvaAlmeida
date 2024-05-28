@@ -2,7 +2,7 @@
 
 - meu nome é Ana beatriz
   
-- estou estudando no [Alura](https:
+- estou estudando no [Alura](https://www.alura.com.br)
 - estou me desenvolvendon na linguagem javaScript
 - utilizo esse espaço para minha organizaçao e compartilhamento dos  meus projetos desenvolvidos
 
